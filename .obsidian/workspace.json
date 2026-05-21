@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7d455b1efdbc8afd",
+        "id": "0e23ad744393599c",
         "type": "tabs",
         "children": [
           {
-            "id": "baa5e0935bff1004",
+            "id": "5befedbc996c2f30",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Programação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programação"
             }
           }
         ]
@@ -177,15 +181,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "baa5e0935bff1004",
+  "active": "5befedbc996c2f30",
   "lastOpenFiles": [
     "while.md",
+    "Programação.md",
+    "Arrays e readonly arrays.md",
     "Variáveis.md",
     "Union types.md",
     "Typescript.md",
     "Type inference.md",
     "Switch.md",
-    "Programação.md",
     "Pasted image 20260520171342.png",
     "Operadores.md",
     "Javascript.md",
@@ -197,7 +202,6 @@
     "DOM.md",
     "do while.md",
     "Condições simples.md",
-    "Condições aninhadas.md",
-    "Arrays e readonly arrays.md"
+    "Condições aninhadas.md"
   ]
 }
