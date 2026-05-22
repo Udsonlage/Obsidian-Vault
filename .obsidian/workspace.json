@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "do while.md",
+                "file": "Git e GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "do while"
+              "title": "Git e GitHub"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "5befedbc996c2f30",
   "lastOpenFiles": [
+    "do while.md",
     "while.md",
     "Programação.md",
     "Arrays e readonly arrays.md",
@@ -200,7 +201,6 @@
     "for in.md",
     "enum.md",
     "DOM.md",
-    "do while.md",
     "Condições simples.md",
     "Condições aninhadas.md"
   ]
