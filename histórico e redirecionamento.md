@@ -19,3 +19,20 @@ reload - recarrega a página.
 window.location.reload() //é void
 ```
 
+window.history - É utilizado pra acessar o histórico.
+
+back - Usado pra acessar o anterior.
+```jsx
+window.history.back() //é void
+```
+
+forward - Usado para acessar o próximo.
+```jsx
+window.history.forward() //é void
+```
+
+go - Usado para acessar histórico de páginas em específico, tipo 3 páginas para frente ou duas para trás.
+```jsx
+window.history.go(3)
+```
+
