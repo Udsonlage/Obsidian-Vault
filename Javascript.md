@@ -11,3 +11,5 @@
 [[for]]
 [[for in]]
 [[for of]]
+
+[[histórico e redirecionamento]]
