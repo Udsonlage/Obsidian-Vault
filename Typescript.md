@@ -2,3 +2,4 @@
 [[Union types]]
 [[Arrays e readonly arrays]]
 [[enum]]
+[[Type assertion e typecast]]
