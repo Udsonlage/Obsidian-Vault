@@ -7,5 +7,5 @@ uvalor = 10;
 
 //nvalor = uvalor; diz que o tipo unknown não pode ser atribuido ao tipo number
 
-nvalor =<number> uvalor; //unknown vira tipo number com essa declaração
+nvalor = <number>uvalor; //unknown vira tipo number com essa declaração
 ```
