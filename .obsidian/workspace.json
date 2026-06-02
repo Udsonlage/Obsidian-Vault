@@ -11,10 +11,14 @@
             "id": "5befedbc996c2f30",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Git e GitHub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git e GitHub"
             }
           }
         ]
@@ -200,6 +204,7 @@
   },
   "active": "5befedbc996c2f30",
   "lastOpenFiles": [
+    "Programação.md",
     "Type assertion e typecast.md",
     "histórico e redirecionamento.md",
     "Typescript.md",
@@ -210,7 +215,6 @@
     "Git e GitHub.md",
     "do while.md",
     "while.md",
-    "Programação.md",
     "Arrays e readonly arrays.md",
     "Variáveis.md",
     "Union types.md",
