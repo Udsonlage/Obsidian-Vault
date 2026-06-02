@@ -4,3 +4,4 @@ Esse bloco de notas será usado para anotar meus conhecimentos na área de desig
 [[HTML e CSS]]
 [[Javascript]]
 [[Typescript]]
+[[Atalhos VS code]]

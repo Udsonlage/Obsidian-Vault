@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Type assertion e typecast.md",
+                "file": "Atalhos VS code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type assertion e typecast"
+              "title": "Atalhos VS code"
             }
           }
         ]
@@ -202,17 +202,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5befedbc996c2f30",
+  "active": "d2257a91b7beb0b2",
   "lastOpenFiles": [
     "Programação.md",
+    "Atalhos VS code.md",
     "Type assertion e typecast.md",
+    "Git e GitHub.md",
     "histórico e redirecionamento.md",
     "Typescript.md",
     "Details (esconde tags).md",
     "Javascript.md",
     "Operadores.md",
     "HTML e CSS.md",
-    "Git e GitHub.md",
     "do while.md",
     "while.md",
     "Arrays e readonly arrays.md",
